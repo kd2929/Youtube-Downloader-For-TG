@@ -51,7 +51,7 @@
 
 # 🀄 Deploy To Heroku >>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cmenuka/Youtube-Downloader-For-TG
+[![Deploy](https://www.herokucdn.com/kd2929/button.svg)](https://heroku.com/deploy?template=https://github.com/kd2929/Youtube-Downloader-For-TG
 # ⚕️ JOIN WITH US >>
 
 <a href="https://t.me/AlphaX_SUPPORT"><img src="https://img.shields.io/badge/Join-Telegram%20SUPGroup-red.svg?logo=Telegram"></a>
